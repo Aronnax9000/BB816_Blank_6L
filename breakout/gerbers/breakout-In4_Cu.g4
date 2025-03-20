@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,9.0.0+dfsg-1*
-G04 #@! TF.CreationDate,2025-03-20T13:58:07-04:00*
+G04 #@! TF.CreationDate,2025-03-20T13:58:06-04:00*
 G04 #@! TF.ProjectId,breakout,62726561-6b6f-4757-942e-6b696361645f,A.27*
 G04 #@! TF.SameCoordinates,Original*
-G04 #@! TF.FileFunction,Soldermask,Top*
-G04 #@! TF.FilePolarity,Negative*
+G04 #@! TF.FileFunction,Copper,L5,Inr*
+G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 9.0.0+dfsg-1) date 2025-03-20 13:58:07*
+G04 Created by KiCad (PCBNEW 9.0.0+dfsg-1) date 2025-03-20 13:58:06*
 %MOMM*%
 %LPD*%
 G01*
@@ -29,19 +29,45 @@ G04 Aperture macros list*
 20,1,$1+$1,$6,$7,$8,$9,0*
 20,1,$1+$1,$8,$9,$2,$3,0*%
 G04 Aperture macros list end*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD10C,1.600000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD11O,1.600000X1.600000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD12R,1.600000X1.600000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD13R,1.800000X1.800000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD14C,1.800000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD15C,6.400000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD16R,3.500000X3.500000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD17RoundRect,0.750000X-0.750000X-1.000000X0.750000X-1.000000X0.750000X1.000000X-0.750000X1.000000X0*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD18RoundRect,0.875000X-0.875000X-0.875000X0.875000X-0.875000X0.875000X0.875000X-0.875000X0.875000X0*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD19R,1.200000X1.200000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD20C,1.200000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD21R,1.700000X1.700000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD22O,1.700000X1.700000*%
+G04 #@! TD*
 G04 APERTURE END LIST*
 D10*
 X53081000Y-68326000D03*
